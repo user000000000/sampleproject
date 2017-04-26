@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+
+.header {
+			  text-align: center;
+			  margin: 10px 20px;
+		}
+
+.error {
+			  text-align: center;
+			  color: red;
+		}
+
+.main {
+			width: 350px;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+.button {
+			margin: 10px 20px;
+		}
+
+table { border: 1px #808080 solid; }
+
+th {
+		background-color: #fffff0;
+		text-align: left;
+		width : 150px;
+		}
+
+td {
+		text-align: left;
+		width : 200px;
+		}
