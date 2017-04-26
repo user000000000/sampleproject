@@ -34,6 +34,8 @@ public class SampleActionForm extends ValidatorForm {
 	 */
 	private String favoriteFood;
 
+	private String aaa;
+
 
 	/**
 	 * 名前を返却する。
